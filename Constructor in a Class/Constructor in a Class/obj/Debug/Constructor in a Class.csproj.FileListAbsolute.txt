@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\bin\Debug\Constructor in a Class.exe.config
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\bin\Debug\Constructor in a Class.exe
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\bin\Debug\Constructor in a Class.pdb
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\obj\Debug\Constructor in a Class.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\obj\Debug\Constructor in a Class.exe
+E:\Code\Opp in C#\Constructor in a Class\Constructor in a Class\obj\Debug\Constructor in a Class.pdb

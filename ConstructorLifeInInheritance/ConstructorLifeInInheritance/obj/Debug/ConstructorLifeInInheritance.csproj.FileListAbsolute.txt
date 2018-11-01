@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\bin\Debug\ConstructorLifeInInheritance.exe.config
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\bin\Debug\ConstructorLifeInInheritance.exe
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\bin\Debug\ConstructorLifeInInheritance.pdb
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\obj\Debug\ConstructorLifeInInheritance.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\obj\Debug\ConstructorLifeInInheritance.exe
+E:\Code\Opp in C#\ConstructorLifeInInheritance\ConstructorLifeInInheritance\obj\Debug\ConstructorLifeInInheritance.pdb

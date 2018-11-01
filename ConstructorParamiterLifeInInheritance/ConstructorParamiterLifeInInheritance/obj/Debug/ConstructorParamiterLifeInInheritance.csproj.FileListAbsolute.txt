@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\bin\Debug\ConstructorParamiterLifeInInheritance.exe.config
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\bin\Debug\ConstructorParamiterLifeInInheritance.exe
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\bin\Debug\ConstructorParamiterLifeInInheritance.pdb
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\obj\Debug\ConstructorParamiterLifeInInheritance.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\obj\Debug\ConstructorParamiterLifeInInheritance.exe
+E:\Code\Opp in C#\ConstructorParamiterLifeInInheritance\ConstructorParamiterLifeInInheritance\obj\Debug\ConstructorParamiterLifeInInheritance.pdb
