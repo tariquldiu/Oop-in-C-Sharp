@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Encaptulation\Encaptulation\bin\Debug\Encaptulation.exe.config
+E:\Code\Opp in C#\Encaptulation\Encaptulation\bin\Debug\Encaptulation.exe
+E:\Code\Opp in C#\Encaptulation\Encaptulation\bin\Debug\Encaptulation.pdb
+E:\Code\Opp in C#\Encaptulation\Encaptulation\obj\Debug\Encaptulation.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Encaptulation\Encaptulation\obj\Debug\Encaptulation.exe
+E:\Code\Opp in C#\Encaptulation\Encaptulation\obj\Debug\Encaptulation.pdb
