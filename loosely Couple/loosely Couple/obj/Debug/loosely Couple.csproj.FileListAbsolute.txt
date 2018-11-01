@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\loosely Couple\loosely Couple\bin\Debug\loosely Couple.exe.config
+E:\Code\Opp in C#\loosely Couple\loosely Couple\obj\Debug\loosely Couple.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\loosely Couple\loosely Couple\bin\Debug\loosely Couple.exe
+E:\Code\Opp in C#\loosely Couple\loosely Couple\bin\Debug\loosely Couple.pdb
+E:\Code\Opp in C#\loosely Couple\loosely Couple\obj\Debug\loosely Couple.exe
+E:\Code\Opp in C#\loosely Couple\loosely Couple\obj\Debug\loosely Couple.pdb
