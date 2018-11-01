@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\This\This\bin\Debug\This.exe.config
+E:\Code\Opp in C#\This\This\bin\Debug\This.exe
+E:\Code\Opp in C#\This\This\bin\Debug\This.pdb
+E:\Code\Opp in C#\This\This\obj\Debug\This.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\This\This\obj\Debug\This.exe
+E:\Code\Opp in C#\This\This\obj\Debug\This.pdb

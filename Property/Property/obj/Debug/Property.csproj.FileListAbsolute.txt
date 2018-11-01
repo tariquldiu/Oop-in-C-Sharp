@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Property\Property\bin\Debug\Property.exe.config
+E:\Code\Opp in C#\Property\Property\bin\Debug\Property.exe
+E:\Code\Opp in C#\Property\Property\bin\Debug\Property.pdb
+E:\Code\Opp in C#\Property\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Property\Property\obj\Debug\Property.exe
+E:\Code\Opp in C#\Property\Property\obj\Debug\Property.pdb

@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\value vs reference\value vs reference\bin\Debug\value vs reference.exe.config
+E:\Code\Opp in C#\value vs reference\value vs reference\bin\Debug\value vs reference.exe
+E:\Code\Opp in C#\value vs reference\value vs reference\bin\Debug\value vs reference.pdb
+E:\Code\Opp in C#\value vs reference\value vs reference\obj\Debug\value vs reference.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\value vs reference\value vs reference\obj\Debug\value vs reference.exe
+E:\Code\Opp in C#\value vs reference\value vs reference\obj\Debug\value vs reference.pdb
