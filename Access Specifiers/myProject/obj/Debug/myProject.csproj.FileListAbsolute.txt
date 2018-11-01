@@ -1,0 +1,4 @@
+E:\Code\Opp in C#\Access Specifiers\myProject\bin\Debug\myProject.dll
+E:\Code\Opp in C#\Access Specifiers\myProject\bin\Debug\myProject.pdb
+E:\Code\Opp in C#\Access Specifiers\myProject\obj\Debug\myProject.dll
+E:\Code\Opp in C#\Access Specifiers\myProject\obj\Debug\myProject.pdb

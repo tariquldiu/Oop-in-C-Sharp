@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Class in Folder\Class in Folder\bin\Debug\Class in Folder.exe.config
+E:\Code\Opp in C#\Class in Folder\Class in Folder\bin\Debug\Class in Folder.exe
+E:\Code\Opp in C#\Class in Folder\Class in Folder\bin\Debug\Class in Folder.pdb
+E:\Code\Opp in C#\Class in Folder\Class in Folder\obj\Debug\Class in Folder.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Class in Folder\Class in Folder\obj\Debug\Class in Folder.exe
+E:\Code\Opp in C#\Class in Folder\Class in Folder\obj\Debug\Class in Folder.pdb

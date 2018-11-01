@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Composition\Composition\bin\Debug\Composition.exe.config
+E:\Code\Opp in C#\Composition\Composition\bin\Debug\Composition.exe
+E:\Code\Opp in C#\Composition\Composition\bin\Debug\Composition.pdb
+E:\Code\Opp in C#\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Composition\Composition\obj\Debug\Composition.exe
+E:\Code\Opp in C#\Composition\Composition\obj\Debug\Composition.pdb

@@ -1,0 +1,6 @@
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\bin\Debug\Access Specifiers.exe.config
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\bin\Debug\Access Specifiers.exe
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\bin\Debug\Access Specifiers.pdb
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\obj\Debug\Access Specifiers.csprojResolveAssemblyReference.cache
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\obj\Debug\Access Specifiers.exe
+E:\Code\Opp in C#\Access Specifiers\Access Specifiers\obj\Debug\Access Specifiers.pdb
